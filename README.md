@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Passionate and problem solver Front-end developer with about 2 years experience in designing pixel perfected web pages with optimized functionalities. Eager to join any on-going front-end project. Highly skilled in communication, collaboration and technical documentation.
 
-*   🌍  I'm based in Lagos,Nigeria
+*   🌍  I'm based in Ibadan,Nigeria
 *   ✉️  You can contact me at [salamibrahim373@gmail.com](mailto:salamibrahim373@gmail.com)
 *   🧠  I'm learning React.js
 *   🤝  I'm open to collaborating on Interesting Projects
