@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibrahim Salam
 =====================================================================================================================================
 
-Passionate and problem solver Front-end developer with about 2 years experience in designing pixel perfected web pages with optimized functionalities. Eager to join any on-going front-end project. Highly skilled in communication, collaboration and technical documentation.
+Passionate and problem solver Front-end developer with about 2 years experience in designing pixel perfect web pages with optimized functionalities. Eager to join any on-going front-end project. Highly skilled in communication, collaboration and technical documentation.
 
 *   🌍  I'm based in Ibadan,Nigeria
 *   ✉️  You can contact me at [salamibrahim373@gmail.com](mailto:salamibrahim373@gmail.com)
